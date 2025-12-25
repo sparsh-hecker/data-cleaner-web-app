@@ -55,3 +55,5 @@ The processed output is suitable for use with machine learning frameworks such a
 ### Dependencies
 ```bash
 pip install streamlit pandas
+streamlit run app.py
+
