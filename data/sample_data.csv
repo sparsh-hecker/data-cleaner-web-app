@@ -1,0 +1,16 @@
+StudentID,Name,Class,Marks,Mobile,Pincode,City
+1,Rahul,10,85,9876543210,560001,Bangalore
+2,Anita,9,,9123456789,110001,Delhi
+3,,8,78,9988776655,700001,Kolkata
+4,Suresh,10,92,,600001,Chennai
+5,Priya,,88,9876501234,400001,Mumbai
+6,Amit,9,67,98765,560002,Bangalore
+7,Neha,10,91,9998887776,,Pune
+8,Rohan,8,45,abcdefghij,411001,Pune
+9,Kavya,9,,9876543219,500001,Hyderabad
+10,Arjun,10,73,9123498765,,
+11,Meena,8,88,,700002,Kolkata
+12,Vikram,9,NaN,9988771122,110002,Delhi
+13,Sneha,10,95,9876541230,400002,Mumbai
+14,Ajay,8,,9123409876,560003,Bangalore
+15,,9,82,9988001122,600002,Chennai
